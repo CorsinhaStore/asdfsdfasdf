@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 11830e46e3a47f0da182453071a2f37ceaad4e35 CORSINHA STORE <47830295-ritaepaulo98@users.noreply.replit.com> 1758408877 +0000	branch: Created from origin/main
+11830e46e3a47f0da182453071a2f37ceaad4e35 154bd7660821346c3355a8e7ac35f7e1292bd3ef ritaepaulo98 <47830295-ritaepaulo98@users.noreply.replit.com> 1758409047 +0000	commit: Make the website deployable on GitHub Pages
+154bd7660821346c3355a8e7ac35f7e1292bd3ef 96fa3fd5e9b257a47436262b5e88064538a96189 ritaepaulo98 <47830295-ritaepaulo98@users.noreply.replit.com> 1758409203 +0000	commit: Prepare project for hosting on GitHub Pages
+96fa3fd5e9b257a47436262b5e88064538a96189 21ac7a44550fe9dc1fdfcb1f0f81e2cc68227671 ritaepaulo98 <47830295-ritaepaulo98@users.noreply.replit.com> 1758409263 +0000	commit: Update website files to be compatible with GitHub Pages hosting
+21ac7a44550fe9dc1fdfcb1f0f81e2cc68227671 29f27e28d66a2c6c4058e98fbc6fc73cefb3bac1 ritaepaulo98 <47830295-ritaepaulo98@users.noreply.replit.com> 1758409352 +0000	commit: Add ability to select product images from device
+29f27e28d66a2c6c4058e98fbc6fc73cefb3bac1 7937aa7434d553f3ee2472d7cd34a85f93f3df60 ritaepaulo98 <47830295-ritaepaulo98@users.noreply.replit.com> 1758409919 +0000	commit: Configure site for custom domain and enable SPA routing
+7937aa7434d553f3ee2472d7cd34a85f93f3df60 26e3c48ecc20b1c431f49563c4c54453bbd8cf57 ritaepaulo98 <47830295-ritaepaulo98@users.noreply.replit.com> 1758409949 +0000	commit: Add 404 page content for missing files
+26e3c48ecc20b1c431f49563c4c54453bbd8cf57 6e1f69b4e17c53fc3ee72d2bfa801e9808b41ca1 124otaku124 <169096941+124otaku124@users.noreply.github.com> 1758411384 -0300	commit: Initial commit
